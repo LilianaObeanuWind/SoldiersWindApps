@@ -1,0 +1,241 @@
+{
+  "Soldiers": [
+    {
+      "Id": 1,
+      "FirstName": "John",
+      "LastName": "A",
+      "Rank": "Sergeant",
+      "Country": "United States",
+      "TrainingInfo": "Advanced Combat Training",
+      "Color": "Red"
+    },
+    {
+      "Id": 2,
+      "FirstName": "Jane",
+      "LastName": "B",
+      "Rank": "Corporal",
+      "Country": "United Kingdom",
+      "TrainingInfo": "Urban Warfare Tactics",
+      "Color": "Blue"
+    },
+    {
+      "Id": 3,
+      "FirstName": "Alex",
+      "LastName": "C",
+      "Rank": "Lieutenant",
+      "Country": "Germany",
+      "TrainingInfo": "Leadership and Strategy",
+      "Color": "Green"
+    },
+    {
+      "Id": 4,
+      "FirstName": "Hugo",
+      "LastName": "D",
+      "Rank": "Private",
+      "Country": "Japan",
+      "TrainingInfo": "Basic Infantry Skills",
+      "Color": "Yellow"
+    },
+    {
+      "Id": 5,
+      "FirstName": "Sophie",
+      "LastName": "E",
+      "Rank": "Captain",
+      "Country": "France",
+      "TrainingInfo": "Special Forces Operations",
+      "Color": "Magenta"
+    }
+  ],
+  "PositionUpdates": [
+    {
+      "Timestamp": "2024-10-20T22:06:46.6736163+03:00",
+      "Positions": [
+        {
+          "SoldierId": 3,
+          "Latitude": 44.431231643872287,
+          "Longitude": 26.030587342340002
+        }
+      ]
+    },
+    {
+      "Timestamp": "2024-10-20T22:07:46.6736163+03:00",
+      "Positions": [
+        {
+          "SoldierId": 5,
+          "Latitude": 44.431404877497478,
+          "Longitude": 26.023950576782227
+        }
+      ]
+    },
+    {
+      "Timestamp": "2024-10-20T22:08:46.6736163+03:00",
+      "Positions": [
+        {
+          "SoldierId": 2,
+          "Latitude": 44.43304438224645,
+          "Longitude": 26.040365695953369
+        }
+      ]
+    },
+    {
+      "Timestamp": "2024-10-20T22:09:46.6736163+03:00",
+      "Positions": [
+        {
+          "SoldierId": 4,
+          "Latitude": 44.421245051626748,
+          "Longitude": 26.020603179931641
+        }
+      ]
+    },
+    {
+      "Timestamp": "2024-10-20T22:10:46.6736163+03:00",
+      "Positions": [
+        {
+          "SoldierId": 1,
+          "Latitude": 44.435112850653944,
+          "Longitude": 26.02586030960083
+        }
+      ]
+    },
+    {
+      "Timestamp": "2024-10-20T22:09:55.5216429+03:00",
+      "Positions": [
+        {
+          "SoldierId": 1,
+          "Latitude": 44.434637875495419,
+          "Longitude": 26.018478870391846
+        }
+      ]
+    },
+    {
+      "Timestamp": "2024-10-20T22:09:58.5458626+03:00",
+      "Positions": [
+        {
+          "SoldierId": 5,
+          "Latitude": 44.427574079656168,
+          "Longitude": 26.016933917999268
+        }
+      ]
+    },
+    {
+      "Timestamp": "2024-10-20T22:10:00.0882161+03:00",
+      "Positions": [
+        {
+          "SoldierId": 4,
+          "Latitude": 44.421352328996718,
+          "Longitude": 26.0280704498291
+        }
+      ]
+    },
+    {
+      "Timestamp": "2024-10-20T22:10:01.3405876+03:00",
+      "Positions": [
+        {
+          "SoldierId": 3,
+          "Latitude": 44.433274215685017,
+          "Longitude": 26.031546592712402
+        }
+      ]
+    },
+    {
+      "Timestamp": "2024-10-20T22:10:02.8361436+03:00",
+      "Positions": [
+        {
+          "SoldierId": 2,
+          "Latitude": 44.429566125868028,
+          "Longitude": 26.036524772644043
+        }
+      ]
+    },
+    {
+      "Timestamp": "2024-10-20T22:24:03.0624515+03:00",
+      "Positions": [
+        {
+          "SoldierId": 5,
+          "Latitude": 44.425244831834441,
+          "Longitude": 26.005368232727051
+        }
+      ]
+    },
+    {
+      "Timestamp": "2024-10-20T22:37:19.4738476+03:00",
+      "Positions": [
+        {
+          "SoldierId": 3,
+          "Latitude": 44.42858543467888,
+          "Longitude": 26.030066013336182
+        }
+      ]
+    },
+    {
+      "Timestamp": "2024-10-20T22:38:29.9223588+03:00",
+      "Positions": [
+        {
+          "SoldierId": 3,
+          "Latitude": 44.430516154766217,
+          "Longitude": 26.016397476196289
+        }
+      ]
+    },
+    {
+      "Timestamp": "2024-10-20T22:38:45.4742886+03:00",
+      "Positions": [
+        {
+          "SoldierId": 3,
+          "Latitude": 44.976456663207749,
+          "Longitude": 24.8565673828125
+        }
+      ]
+    },
+    {
+      "Timestamp": "2024-10-20T22:42:55.6695199+03:00",
+      "Positions": [
+        {
+          "SoldierId": 1,
+          "Latitude": 44.4362313252939,
+          "Longitude": 26.020431518554688
+        }
+      ]
+    },
+    {
+      "Timestamp": "2024-10-20T22:55:25.9683899+03:00",
+      "Positions": [
+        {
+          "SoldierId": 5,
+          "Latitude": 44.688671003237467,
+          "Longitude": 25.504074096679688
+        }
+      ]
+    },
+    {
+      "Timestamp": "2024-10-20T22:55:29.5233333+03:00",
+      "Positions": [
+        {
+          "SoldierId": 2,
+          "Latitude": 44.750634493861057,
+          "Longitude": 25.975799560546875
+        }
+      ]
+    },
+    {
+      "Timestamp": "2024-10-20T22:55:31.581007+03:00",
+      "Positions": [
+        {
+          "SoldierId": 1,
+          "Latitude": 44.434760450099468,
+          "Longitude": 25.568618774414062
+        }
+      ]
+    },
+    {
+      "Timestamp": "2024-10-20T22:55:33.5435759+03:00",
+      "Positions": [
+        {
+          "SoldierId": 4,
+          "Latitude": 44.738442202028885,
+          "Longitude": 26.292343139648438
+        }
+      ]
+    }
+  ]
+}
